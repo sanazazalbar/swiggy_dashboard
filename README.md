@@ -30,7 +30,7 @@ The dataset contains:
 - Locations
 
 ## 📸 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.jpeg)
 
 ## 🚀 Conclusion
 This dashboard helps in understanding customer behavior and business performance, enabling better decision-making.
